@@ -1,0 +1,10 @@
+SCRIPT
+CHEIO a = 0;
+MOSTRA ( ABCD , "Entre com um valor:" )
+ENTRA ( CHEIO , a )
+CHEIO b = 0 ;
+MOSTRA ( ABCD , "Entre com outro valor:" )
+ENTRA ( CHEIO , b )
+CHEIO mult = 0;
+mult = ( a * b );
+MOSTRA ( CHEIO , mult ) 
